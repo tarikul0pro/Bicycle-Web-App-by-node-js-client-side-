@@ -1,0 +1,62 @@
+[
+  {
+    "price":"350",
+    "name": "Trek.",
+    "img": "https://bikexchange.com/wp-content/uploads/2021/04/exploro-max-grx-1x600-1-e1618303589995.jpg",
+    "description": "The 3T Explore was the brands first gravel bike released in 2016 when the gravel industry started to hit off. Today, their range consists of high-end road and gravel bikes. 3T bikes is also a well-known sponsor in the cycling scene."
+  },
+  {
+  "price":"350",
+    "name": "Alchemy.",
+    "img": "https://bikexchange.com/wp-content/uploads/2020/11/Arktos-29-Vanilla-XTR-12-Speed.jpg",
+    "description": "It was their main mission when they started in 2008 and is still their main motivation today. The Denver based American brand pride themselves on building quality carbon and titanium framed bikes, and have won awards for their workmanship."
+  },
+  {
+ "price":"350",
+    "name": "All-City.",
+    "img": "https://allcitycycles.com/files/studio_images/all-city-zig-zag-ultegra-bike-sunset-glow-BK9212-1500x1000.jpg",
+    "description": "All-City Cycles specializes in on-road riding only, hence the reason you’ll find a fine selection of Road, Gravel, Cyclocross, and Hybrid bikes. Something that sets them apart from other brands is the fact that most of the bikes’ frames are generally made of steel, and the components"
+  },
+  {
+ "price":"350",
+    "name": "Bianchi.",
+    "img": "https://www.bianchi.com/wp-content/uploads/2019/07/YPB01I5K.jpg",
+    "description": "One of the oldest surviving bike brands in the world, Italian brand Bianchi is recognized by their turquoise-blue paint named ‘Celeste #227’. Bianchi road bikes have a racing pedigree, with multiple Grand Tour wins under their belts including the most recent edition of"
+  },
+  {
+   "price":"350",
+    "name": "Cannondale  .",
+    "img": "https://www.rei.com/media/735546df-e54c-4c4e-9b4d-d1c42821553c?size=784x588",
+    "description": "Cannondale is one of the most popular bicycle brands in the world. A relatively young brand, it was founded in 1971 in Connecticut, USA. One of the first brands to embrace carbon fiber in bike production, Cannondale is a firm rider favorite and has made itself known in the professional peloton."
+  },
+  {
+ "price":"350",
+    "name": "Canyon .",
+    "img": "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Library-Sites-canyon-shared/default/dw5b1b4f69/images/plp/Gravel/CEC-GrailON-gallery-relaxedposition.jpg?sw=848",
+    "description": "Canyon has taken a different approach regards building and marketing – their focus is to build bikes that last a long time, and hold a great second-hand value.  Although Canyon is German-based bike brand, Canyon USA was launched in 2017."
+  },
+  {
+ "price":"350",
+    "name": "Colnago .",
+    "img": "https://www.colnago.com/wp-content/uploads/2018/06/V2R-VJBR.jpg",
+    "description": "They are known for their pioneering manufacturing, such as being one of the first brands to produce carbon fiber road bikes. Their bikes have helped many a racer to victory, going as far back as Eddy Merckx and most recently being the bike that won the Tour de France in 2020."
+  },
+  {
+ "price":"350",
+    "name": "Co-op .",
+    "img": "https://bikexchange.com/wp-content/uploads/2018/08/Co-Op-1.1-W.jpg",
+    "description": "They are focused on making affordable entry-level and mid-range bikes. Co-op Cycles make bikes for the whole family including road, mountain, city, electric, adventure touring, and kids bikes. Their affordability and no-nonsense branding make them a cult favorite."
+  },
+  {
+ "price":"350",
+    "name": "Retrospec .",
+    "img": "https://bikexchange.com/wp-content/uploads/2020/11/Arktos-29-Vanilla-XTR-12-Speed.jpg",
+    "description": "From road to carbon and dual-suspension line-ups, Devinci is a top name in the game. The Canadian brand stands tall by being one of the leaders in global frame manufacturing. Today, Devinci’s main line-up consists of high-end road, gravel, and mountain bikes."
+  },
+   {
+  "price":"350",
+    "name": "Bianchi.",
+    "img": "https://www.bianchi.com/wp-content/uploads/2019/07/YPB01I5K.jpg",
+    "description": "One of the oldest surviving bike brands in the world, Italian brand Bianchi is recognized by their turquoise-blue paint named ‘Celeste #227’. Bianchi road bikes have a racing pedigree, with multiple Grand Tour wins under their belts including the most recent edition of"
+  }
+]
